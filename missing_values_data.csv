@@ -1,0 +1,12 @@
+Name,Age,Experience,Salary
+Amelia,24,1,300000
+Benjamin,55,9,250000
+Charlotte,82,3,200000
+David,87,,350000
+Emma,,0,150000
+Jennifer,67,5,250000
+Charlotte,82,3,200000
+David,,,350000
+Emma,43,0,150000
+Chase,,1,100000
+Adam,34,1,100000
